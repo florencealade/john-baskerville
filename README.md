@@ -23,10 +23,6 @@ html lang="en">
 </head>
 ​
 <body>
-  <ul>
-    <i><a href="#the-man">The Man</a></li>
-
-  </ul>
 <article>
     <header>
         <h1>John Baskerville</h1>
