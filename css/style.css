@@ -72,7 +72,7 @@ a:hover {
 }
 /*----- NAVIGATION -----*/
 nav {
-  position: fixed;
+  psition: fixed;
   top: 0;
   left: 0;
   margin: 0;
