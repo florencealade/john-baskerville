@@ -63,11 +63,11 @@ header p {
 
 /*----- STYLING LINKS -----*/
 a{
-  color: #008080;
+  color: #fdfdfd;
   text-decoration: none;
 }
-a hover {
-  color: #008080;
+a:hover {
+  color: #6EE0D1;
   border-bottom: 1px dotted;
 }
 /*----- NAVIGATION -----*/
