@@ -98,10 +98,11 @@ nav a:link {
   color: #fdfdfd;
 }
 
-nav a hover {
-  color:#6EE0D1
+topnav a:hover {
+  background-color: #6EE0D1
   border-bottom: 1px dotted
 }
+
 
 
 /*----- FOOTER-----*/
