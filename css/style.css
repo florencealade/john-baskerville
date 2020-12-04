@@ -4,7 +4,7 @@
   padding: 0;
   margin: 0;
   font-size: 100%;
-  line-height: lem;
+  line-height: 2em;
 }
 
 /*----- MAIN STYLING -----*/
@@ -72,7 +72,7 @@ a hover {
 }
 /*----- NAVIGATION -----*/
 nav {
-  psition: fixed;
+  position: fixed;
   top: 0;
   left: 0;
   margin: 0;
@@ -98,6 +98,10 @@ nav a:link {
   color: #fdfdfd;
 }
 
+nav a hover {
+  color:#6EE0D1
+  border-bottom: 1px dotted
+}
 
 
 /*----- FOOTER-----*/
