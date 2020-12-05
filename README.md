@@ -14,12 +14,12 @@ Adding new john-baskerville file and applied my first CSS styling.
 
 John Baskerville
 ==================
-[Version 2](https://florencealade.github.io/john-baskerville/john-baskerville3.html)
+[Version 3](https://florencealade.github.io/john-baskerville/john-baskerville3.html)
 *15 November 2020*
 
 
 
 John Baskerville
 ==================
-[Version 2](https://florencealade.github.io/john-baskerville/john-baskerville4.html)
+[Version 4](https://florencealade.github.io/john-baskerville/john-baskerville4.html)
 *21 November 2020*
