@@ -7,20 +7,19 @@ Created my first proper web page marking up some plain text with HTML5!
 
 John Baskerville
 ==================
-[Version 2](https://florencealade.github.io/john-baskerville/john-baskerville2)
+[Version 2](https://florencealade.github.io/john-baskerville/john-baskerville2.html)
 *09 November 2020*
 Adding new john-baskerville file and applied my first CSS styling.
 
 
-The History of Type
+John Baskerville
 ==================
-[Version 1](https://florencealade.github.io/type-history/type-history.html)
+[Version 3](https://florencealade.github.io/john-baskerville/john-baskerville3.html)
 *15 November 2020*
-Created another web page marking up some plain text with HTML5!
 
 
-The History of Type
+
+John Baskerville
 ==================
-[Version 2](https://florencealade.github.io/type-history/type-history2.html)
+[Version 4](https://florencealade.github.io/john-baskerville/john-baskerville4.html)
 *21 November 2020*
-Created another web page marking up some plain text with HTML5!
