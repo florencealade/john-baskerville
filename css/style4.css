@@ -17,38 +17,6 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
-/*----- STYLING TAB ------*/
-table {
-  margin: auto;
-  display: table;
-  border-collapse: collapse;
-  border-spacing: 2px;
-  margin-bottom: 2em;
-  width: 100%;
-}
-
-caption {
-  margin: 1.5em 0;
-  text-transform: uppercase;
-}
-
-th {
-  color: #fdfdfd;
-  text-transform: uppercase;
-  font-weight: normal;
-  text-align: left;
-  background: #008080;
-}
-
-th,td {
-  padding: 0.6em;
-}
-
-table,td {
-  background: #fdfdfd;
-  border: 2px solid #fdfdfd
-}
-
 /*----- TYPOGRAPHY  -----*/
 h1, h2 {
   font-weight: bolder;
@@ -140,6 +108,37 @@ nav a:link {
   color: #fdfdfd
 }
 
+/*-----STYLING TABLE-----*/
+table {
+  margin: auto;
+  display: table;
+  border-collapse: collapse;
+  border-spacing: 2px;
+  margin-bottom: 2em;
+  width: 100%
+}
+
+caption {
+  margin: 1.5em 0;
+  text-transform: uppercase:
+}
+
+th {
+  color: #fdfdfd
+  text-transform: uppercase;
+  font-weight: normal;
+  text-align: left;
+  background: #008080
+}
+
+th, td {
+  padding: 0.7em
+}
+
+table, td {
+  background: #fdfdfd
+  border: 2px solid #008080
+}
 
 
 /*----- FOOTER-----*/
