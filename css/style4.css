@@ -108,6 +108,10 @@ nav a:link {
   color: #fdfdfd
 }
 
+nav a:visited {
+  color: #005C5C
+}
+
 /*-----STYLING TABLE-----*/
 table {
   margin: auto;
