@@ -108,36 +108,45 @@ nav a:link {
   color: #fdfdfd
 }
 
-/*-----STYLING TABLE-----*/
+/*------------------- TABLE STYLING ---------------*/
+
 table {
-  margin: auto;
-  display: table;
-  border-collapse: collapse;
-  border-spacing: 2px;
-  margin-bottom: 2em;
-  width: 100%
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+    width: 100%;
 }
 
 caption {
-  margin: 1.5em 0;
-  text-transform: uppercase:
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
 }
 
 th {
-  color: #fdfdfd
-  text-transform: uppercase;
-  font-weight: normal;
-  text-align: left;
-  background: #008080
+    color: #fafafa;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: rgb(120, 143, 4);
 }
 
 th, td {
-  padding: 0.7em
+    padding: .6em }
+
+table, td   {
+    background: rgb(212, 222, 164);
+    border: 1px solid #fafafa
 }
 
-table, td {
-  background: #fdfdfd
-  border: 2px solid #008080
+/*-------------- IMAGES -----------------*/
+
+img {
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+    max-width: 100%;
 }
 
 
