@@ -42,7 +42,7 @@ h2 {
 
 blockquote {
   font-size: 1.333em;
-  color: #008080;
+  color: #333;
   hanging-punctuation: first;
   text-indent: -0.44em;
 }
@@ -146,7 +146,7 @@ table, td   {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 25%;
   }
 
 
