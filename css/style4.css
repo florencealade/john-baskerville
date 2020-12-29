@@ -42,7 +42,7 @@ h2 {
 
 blockquote {
   font-size: 1.333em;
-  color: #333;
+  color: #008080;
   hanging-punctuation: first;
   text-indent: -0.44em;
 }
@@ -129,25 +129,25 @@ th {
     text-transform: uppercase;
     font-weight: normal;
     text-align: left;
-    background: rgb(120, 143, 4);
+    background: #008080;
 }
 
 th, td {
     padding: .6em }
 
 table, td   {
-    background: rgb(212, 222, 164);
+    background: #B2E6E6;
     border: 1px solid #fafafa
 }
 
+/*-------------- IMAGES -----------------*/
 
-/*-----IMAGE-----*/
-  img {
+img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 25%;
-  }
+    margin: 3em auto;
+    padding: 0;
+    max-width: 100%;
+}
 
 
 /*----- FOOTER-----*/
