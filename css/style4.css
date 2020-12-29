@@ -140,14 +140,14 @@ table, td   {
     border: 1px solid #fafafa
 }
 
-/*-------------- IMAGES -----------------*/
 
-img {
+/*-----IMAGE-----*/
+  img {
     display: block;
-    margin: 3em auto;
-    padding: 0;
-    max-width: 100%;
-}
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
 
 /*----- FOOTER-----*/
