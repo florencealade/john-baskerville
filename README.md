@@ -23,3 +23,10 @@ John Baskerville
 ==================
 [Version 4](https://florencealade.github.io/john-baskerville/john-baskerville4.html)
 *21 November 2020*
+
+
+
+
+CSS Exercise
+==================
+[Version 4](https://florencealade.github.io/john-baskerville/css-exercise.html)
