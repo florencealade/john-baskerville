@@ -1,0 +1,197 @@
+/*----- CSS Reset -----*/
+
+*{
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  line-height: lem;
+}
+
+
+/*-----MAIN STYLING-----*/
+body {
+ width: 80%;
+ max-width: 700px;
+ margin: auto;
+ background: #fdfdfd;
+ color: #333;
+}
+
+/*----- TYPOGRAPHY  -----*/
+h1, h2 {
+ font-weight: bolder;
+ text-align: center;
+ color: #38ABAB;
+}
+
+p, blockquote {
+ margin-bottom: 1.5em;
+}
+
+h1 {
+ font-size: 3.827em;
+ margin-bottom: 0;
+ font-size: 75.63px;
+ color: #38ABAB;
+}
+
+h2 {
+ font-size: 1.999em;
+ margin: 0 0 2em 0;
+ color: #38ABAB;
+}
+
+h3 {
+ font-size: 1.444em;
+ color: #38ABAB;
+}
+
+blockquote {
+ font-size: 1.333em;
+ color: #38ABAB;
+ hanging-punctuation: first;
+ text-indent: -0.44em;
+}
+
+blockquote cite {
+ font-size: 0.75em;
+ color: #A1A1A1;
+}
+
+header h2 {
+ font-style: italic;
+ margin-top: 0;
+ margin-bottom: 1.5em;
+}
+
+header p {
+ font-size: 1.41em;
+ text-align: center;
+}
+
+hr {
+ margin: 3em 0;
+ height: 1px;
+ background: #333;
+ color: #333;
+ border: 0 none;
+}
+
+
+/*-----VERSION ONE STYLING-----*/
+
+.version1 {
+  color: #333;
+}
+
+h1.header {
+  font-family: 'Libre Baskerville', serif;
+
+  margin-bottom: 0;
+}
+
+ span.dropcap {
+   float: left;
+   font-size: 70px;
+   line-height: 1;
+   font-weight: bold;
+   margin-right: 9px;
+   color: #38ABAB;
+ }
+
+
+ h2.jbone{
+  font-family: 'Playfair Display', serif;
+}
+
+
+h3.jbone {
+  font-family: 'Libre Baskerville', serif;
+}
+
+p.jbone {
+  color: #000000;
+  font-family: 'Libre Baskerville', serif;
+}
+
+p.intro  {
+  font-size: 1.44em
+}
+
+.version1 {
+  padding-top: 50px;
+  font-family: 'Libre Baskerville', serif;
+}
+
+
+
+/*-----VERSION TWO STYLING-----*/
+
+.version2 {
+  color: #333;
+}
+
+h1.jbtwo {
+  font-family: 'Lato', sans-serif;
+  margin-bottom: 0;
+}
+
+h2.jbtwo {
+  font-family: 'Playfair Display', serif;
+}
+
+h3.jbtwo {
+  font-family: 'Lato', sans-serif;
+}
+
+p.jbtwo {
+  color: #000000;
+  font-family: 'Lato', sans-serif;
+}
+
+cite.jbtwo {
+ font-size: 0.75em;
+ color: #A1A1A1;
+}
+
+/*-----VERSION THREE STYLING-----*/
+
+.version3 {
+  color: ;
+}
+
+h1.jbthree {
+  font-family: 'Frank Ruhl Libre', serif;
+  margin-bottom: 0;
+}
+
+h2.jbthree {
+  font-family: 'Playfair Display', serif;
+}
+
+h3.jbthree {
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+p.intro{
+  color: #000000;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+p.jbthree {
+  color: #000000;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+cite.jbthree {
+ font-size: 0.75em;
+ color: #A1A1A1;
+}
+
+
+/*----- FOOTER-----*/
+footer {
+  text-align: center;
+  font-size: 1em;
+  padding: 4em 0 8em 0;
+}
