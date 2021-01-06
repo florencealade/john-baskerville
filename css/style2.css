@@ -99,6 +99,10 @@ nav a:link {
   color: #fdfdfd;
 }
 
+nav a:visited {
+  color: #003838;
+}
+
 nav a:hover {
   border-bottom: none;
   color: #73E6E2;
