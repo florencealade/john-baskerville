@@ -93,9 +93,10 @@ a:hover {
   color: #008080;
   border-bottom: 1px dotted;
 }
+
 /*----- NAVIGATION -----*/
 nav {
-  psition: fixed;
+  position: fixed;
   top: 0;
   left: 0;
   margin: 0;
@@ -105,10 +106,10 @@ nav {
   font-size: 0.75em;
 }
 
-nav ul: {
+nav ul {
   text-align: center;
   text-transform: uppercase;
-  letter-spacing: 1px
+  letter-spacing: 1px;
 }
 
 nav ul li {
@@ -121,10 +122,16 @@ nav a:link {
   color: #fdfdfd;
 }
 
-
 nav a:visited {
   color: #003838;
 }
+
+nav a:hover {
+  border-bottom: none;
+  color: #73E6E2;
+  transition: all 0.4s ease-in-out;
+ }
+
 
 /*-----IMAGE-----*/
    img {
@@ -141,7 +148,7 @@ table {
   border-collapse: collapse;
   border-spacing: 2px;
   margin-bottom: 2em;
-  width: 100%
+  width: 100%;
 }
 
 caption {
@@ -154,16 +161,16 @@ th {
   text-transform: uppercase;
   font-weight: normal;
   text-align: left;
-  background: #008080
+  background: #008080;
 }
 
 th, td {
-  padding: 0.7em
+  padding: 0.7em;
 }
 
 table, td {
-  background: #fdfdfd
-  border: 2px solid #008080
+  background: #fdfdfd;
+  border: 2px solid #008080;
 }
 
 
